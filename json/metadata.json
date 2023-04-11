@@ -1,0 +1,60 @@
+{
+    "categories": [
+        {
+            "id": "customEmoji",
+            "title": "Custom Emoji",
+            "description": "Custom Emoji",
+            "emoticons": [
+                {
+                    "id": "cusEmo_b916aa77-6f57-491e-bc87-3fa459d3a900",
+                    "creator": "8b093b02-51ab-46e7-9cfb-bc04e7d8e3e1",
+                    "documentId": "0-wus-d10-660d5ab33ec71d21ebedefd8f81f556c",
+                    "name": "customName1",
+                    "shortcuts": [
+                        "(customName1)"
+                    ],
+                    "description": "customName1",
+                    "unicode": null,
+                    "etag": "{generated from TMS}",
+                    "diverse": false,
+                    "animation": null,
+                    "keywords": [ 
+                        "customName1" 
+                    ]
+                },
+                {
+                    "id": "cusEmo_f5569447-d241-4923-b184-05ca41ac716c",
+                    "creator": "8b093b02-51ab-46e7-9cfb-bc04e7d8e3e1",
+                    "documentId": "0-wus-d6-da961ab12af20e5c5b7ee934876b777a",
+                    "shortcuts": [
+                        "(customName2)"
+                    ],
+                    "description": "customName2",
+                    "unicode": null,
+                    "etag": "{generated from TMS}",
+                    "diverse": false,
+                    "animation": null,
+                    "keywords": [ 
+                        "customName2" 
+                    ]
+                },
+                {
+                    "id": "cusEmo_c6331ec5-e9c6-494e-8fb0-d995f44f1271",
+                    "creator": "8b093b02-51ab-46e7-9cfb-bc04e7d8e3e1",
+                    "documentId": "0-wus-d3-78a1e24028170026713e6c15682e483a",
+                    "shortcuts": [
+                        "(customName3)"
+                    ],
+                    "description": "customName3",
+                    "unicode": null,
+                    "etag": "{generated from TMS}",
+                    "diverse": false,
+                    "animation": null,
+                    "keywords": [ 
+                        "customName3" 
+                    ]
+                }
+            ]
+        }
+    ]
+}
